@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import {movies} from "./data.js";
 
+
 const Movies = () => {
     const [movieList, setMovieList] = useState(movies);
   return (
