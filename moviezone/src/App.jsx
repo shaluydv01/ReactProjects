@@ -1,11 +1,11 @@
+import React from 'react'
+import Movies from './MovieZone/Movies'
 
-
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
-    <>
-    </>
+    <div>
+      <Movies />
+    </div>
   )
 }
 

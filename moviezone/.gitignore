@@ -7,9 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-moviezone/eslint.config.js
 node_modules
-moviezone/package-lock.json
 dist
 dist-ssr
 *.local
