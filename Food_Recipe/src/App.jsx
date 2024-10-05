@@ -1,12 +1,12 @@
-import React, { useState, useEffect } from 'react'
+import React from "react";
+import Meal from "./component/Meal";
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
     <>
+      <Meal />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
