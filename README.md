@@ -13,5 +13,6 @@ Ok
 <h1>Password Validator:</h1>
 <p>In this project, I have used a validator library. For further information please go and refer the validator documentation: <a href="https://www.npmjs.com/package/validator">validator</a></p>
 <p>Command to install validator in your project: <code>npm install validator</code></p>
+<strong>You can do another type of validations like, email, phone number, credit card, etc. using this library.</strong>
 
 
