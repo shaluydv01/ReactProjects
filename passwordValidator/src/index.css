@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+  text-align: center;
+  background: #111;
+  color: white;
+}
+
+#input{
+  padding: 8px 16px;
+  font-size: 20px;
+  background: gray;
+  border: none;
+  border-radius: 8px;
+}
+
+span{
+  font-size: 20px;
+}
+
+p{
+  padding-left: 48px;
+  text-align: center;
+}
