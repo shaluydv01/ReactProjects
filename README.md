@@ -18,6 +18,7 @@ Ok
 -----------------------------------------------------------------------
 <h1>HotStuff & ButterCup: </h1>
 <p>In this project, I have used sound library from ReactJS for creating music player efficiently and easily. You may install it using command: <code>npm i use-sound</code></p>
+<p>Used react-router-dom for creating multiple pages: <code>npm i react-router-dom</code></p>
 <p>Refer the following documentation for the further details <a href="https://www.npmjs.com/package/use-sound">npm sound</a></p>
 
 
